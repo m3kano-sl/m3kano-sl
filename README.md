@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [serverloom.com](serverloom.com)
 
-- 💬 Ask me about **What you want**
+- 💬 Ask me **What you want**
 
 - 📫 How to reach me **M3kano@serverloom.com**
 
