@@ -77,7 +77,7 @@
 
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3kano07&show_icons=true&locale=en&layout=compact" alt="m3kano07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3kano07&show_icons=true&locale=en&layout=compact" alt="m3kano-sl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3kano07&show_icons=true&locale=en" alt="m3kano07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3kano07&show_icons=true&locale=en" alt="m3kano-sl" /></p>
 
